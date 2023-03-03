@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**rmorey/rmorey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Ryan and I'm a software developer based in New Jersey.
 
-Here are some ideas to get you started:
+I work for the [Seung Lab 🔬](https://seunglab.org/) at the [Princeton Neurosicence Institute 🧠](https://pni.princeton.edu/) on [FlyWire 🪰](https://flywire.ai/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked at [Zocdoc](https://www.zocdoc.com) and [Lingraphica](https://www.lingraphica.com), and studied computer science at [Rutgers University](https://soe.rutgers.edu).
+
+You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/ryan-morey/)
+- [Twitter](https://twitter.com/RyanMorey)
+- [Mastodon](https://social.lol/@rtm)
+- [LearnedLeague](https://learnedleague.com/profiles.php?43376)
+- [Replit](https://replit.com/@rmorey)
+
+_Have a good one!_
