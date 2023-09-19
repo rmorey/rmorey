@@ -1,16 +1,16 @@
 ### Hello! 👋
 
-My name's Ryan and I'm a software developer based in New Jersey.
+My name's Ryan and I'm a software engineer based in New Jersey.
 
-I work for the [Seung Lab 🔬](https://seunglab.org/) at the [Princeton Neurosicence Institute 🧠](https://pni.princeton.edu/) on [FlyWire 🪰](https://flywire.ai/).
+I work for the [Seung Lab 🔬](https://seunglab.org/) at the [Princeton Neuroscience Institute 🧠](https://pni.princeton.edu/) on projects such as [FlyWire 🪰](https://flywire.ai/).
 
-Previously, I worked at [Zocdoc](https://www.zocdoc.com) and [Lingraphica](https://www.lingraphica.com), and studied computer science at [Rutgers University](https://soe.rutgers.edu).
+Previously, I worked at [Zocdoc](https://www.zocdoc.com) and [Lingraphica](https://www.lingraphica.com), and studied computer science and engineering at [Rutgers University](https://soe.rutgers.edu).
 
 You can find me on:
 
+- [GitHub](https://github.com/rmorey)
 - [LinkedIn](https://www.linkedin.com/in/ryan-morey/)
-- [Twitter](https://twitter.com/RyanMorey)
-- [Mastodon](https://social.lol/@rtm)
+- [Mastodon](https://mastodon.social/@rmorey)
 - [LearnedLeague](https://learnedleague.com/profiles.php?43376)
 - [Replit](https://replit.com/@rmorey)
 
