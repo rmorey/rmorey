@@ -4,7 +4,7 @@ My name's Ryan and I'm a software engineer based in New Jersey.
 
 I work for the [Seung Lab 🔬](https://seunglab.org/) at the [Princeton Neuroscience Institute 🧠](https://pni.princeton.edu/) on projects such as [FlyWire 🪰](https://flywire.ai/).
 
-Previously, I worked at [Zocdoc](https://www.zocdoc.com) and [Lingraphica](https://www.lingraphica.com), and studied computer science and engineering at [Rutgers University](https://soe.rutgers.edu).
+Previously, I worked at [Zocdoc](https://www.zocdoc.com) and [Lingraphica](https://www.lingraphica.com), and studied engineering and computer science at [Rutgers University](https://soe.rutgers.edu).
 
 You can find me on:
 
